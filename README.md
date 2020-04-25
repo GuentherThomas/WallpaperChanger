@@ -3,8 +3,8 @@ This application lets you have a slideshow of pictures from different folders as
 
 Example for filling the config: Imagine you have 3 monitors, one 1080p on the left, 1440p in the middle and 2160p on the right
 
-D:\Pics\1080p
-D:\Pics\1440p
-D:\Pics\2160p
-D:\Pics\CustomWallpaper
+D:\Pics\1080p  
+D:\Pics\1440p  
+D:\Pics\2160p  
+D:\Pics\CustomWallpaper  
 10
